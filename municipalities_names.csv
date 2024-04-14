@@ -1,0 +1,309 @@
+,NAME
+0,Evora
+1,Alandroal
+2,Arraiolos
+3,Borba
+4,Estremoz
+5,Montemor-o-Novo
+6,Mora
+7,Mourao
+8,Portel
+9,Redondo
+10,Reguengos de Monsaraz
+11,Vendas Novas
+12,Viana do Alentejo
+13,Vila Vicosa
+14,Agueda
+15,Ilhavo
+16,Albergaria-a-Velha
+17,Anadia
+18,Arouca
+19,Aveiro
+20,Castelo de Paiva
+21,Espinho
+22,Estarreja
+23,Mealhada
+24,Murtosa
+25,Oliveira de Azemeis
+26,Oliveira do Bairro
+27,Ovar
+28,Sao Joao da Madeira
+29,Santa Maria da Feira
+30,Sever do Vouga
+31,Vagos
+32,Vale de Cambra
+33,Angra do Heroismo
+34,Calheta
+35,Corvo
+36,Horta
+37,Lagoa
+38,Lajes das Flores
+39,Lajes do Pico
+40,Madalena
+41,Nordeste
+42,Ponta Delgada
+43,Povoacao
+44,Praia da Vitoria
+45,Ribeira Grande
+46,Sao Roque do Pico
+47,Santa Cruz da Graciosa
+48,Santa Cruz das Flores
+49,Velas
+50,Vila do Porto
+51,Vila Franca do Campo
+52,Aljustrel
+53,Almodovar
+54,Alvito
+55,Barrancos
+56,Beja
+57,Castro Verde
+58,Cuba
+59,Ferreira do Alentejo
+60,Mertola
+61,Moura
+62,Odemira
+63,Ourique
+64,Serpa
+65,Vidigueira
+66,Amares
+67,Barcelos
+68,Braga
+69,Braga
+70,Cabeceiras de Basto
+71,Celorico de Basto
+72,Esposende
+73,Fafe
+74,Povoa de Lanhoso
+75,Terras de Bouro
+76,Vieira do Minho
+77,Vila Nova de Famalicao
+78,Vila Verde
+79,Vizela
+80,Alfandega da Fe
+81,Braganca
+82,Carrazeda de Ansiaes
+83,Freixo de Espada a Cinta
+84,Macedo de Cavaleiros
+85,Miranda do Douro
+86,Mirandela
+87,Mogadouro
+88,Torre de Moncorvo
+89,Vila Flor
+90,Vimioso
+91,Vinhais
+92,Belmonte
+93,Castelo Branco
+94,Covilha
+95,Fundao
+96,Idanha-a-Nova
+97,Oleiros
+98,Penamacor
+99,Proenca-a-Nova
+100,Serta
+101,Vila de Rei
+102,Vila Velha de Rodao
+103,Arganil
+104,Cantanhede
+105,Coimbra
+106,Condeixa-a-Nova
+107,Figueira da Foz
+108,Gois
+109,Lousa
+110,Mira
+111,Miranda do Corvo
+112,Montemor-o-Velho
+113,Oliveira do Hospital
+114,Pampilhosa da Serra
+115,Penacova
+116,Penela
+117,Soure
+118,Tabua
+119,Vila Nova de Poiares
+120,Albufeira
+121,Alcoutim
+122,Alcoutim
+123,Aljezur
+124,Castro Marim
+125,Faro
+126,Lagoa
+127,Lagos
+128,Loule
+129,Monchique
+130,Olhao
+131,Portimao
+132,Sao Bras de Alportel
+133,Silves
+134,Vila do Bispo
+135,Vila Real de Santo Antonio
+136,Aguiar da Beira
+137,Almeida
+138,Celorico da Beira
+139,Figueira de Castelo Rodrigo
+140,Fornos de Algodres
+141,Gouveia
+142,Guarda
+143,Meda
+144,Manteigas
+145,Pinhel
+146,Sabugal
+147,Seia
+148,Trancoso
+149,Vila Nova de Foz Coa
+150,Obidos
+151,Alcobaca
+152,Alvaiazere
+153,Ansiao
+154,Batalha
+155,Bombarral
+156,Caldas da Rainha
+157,Castanheira de Pera
+158,Figueiro dos Vinhos
+159,Leiria
+160,Marinha Grande
+161,Nazare
+162,Pedrogao Grande
+163,Peniche
+164,Pombal
+165,Porto de Mos
+166,Alenquer
+167,Amadora
+168,Arruda dos Vinhos
+169,Azambuja
+170,Cadaval
+171,Cascais
+172,Lisboa
+173,Loures
+174,Lourinha
+175,Mafra
+176,Odivelas
+177,Oeiras
+178,Sintra
+179,Sobral de Monte Agraco
+180,Torres Vedras
+181,Vila Franca de Xira
+182,Camara de Lobos
+183,Calheta
+184,Funchal
+185,Machico
+186,Ponta do Sol
+187,Porto Moniz
+188,Porto Santo
+189,Ribeira Brava
+190,Sao Vicente
+191,Santa Cruz
+192,Santana
+193,Alter do Chao
+194,Arronches
+195,Avis
+196,Campo Maior
+197,Castelo de Vide
+198,Crato
+199,Elvas
+200,Fronteira
+201,Gaviao
+202,Marvao
+203,Monforte
+204,Nisa
+205,Ponte de Sor
+206,Portalegre
+207,Sousel
+208,Amarante
+209,Baiao
+210,Felgueiras
+211,Gondomar
+212,Lousada
+213,Maia
+214,Marco de Canaveses
+215,Matosinhos
+216,Povoa de Varzim
+217,Pacos de Ferreira
+218,Paredes
+219,Penafiel
+220,Porto
+221,Santo Tirso
+222,Trofa
+223,Valongo
+224,Vila do Conde
+225,Vila Nova de Gaia
+226,Abrantes
+227,Alcanena
+228,Almeirim
+229,Alpiarca
+230,Benavente
+231,Cartaxo
+232,Chamusca
+233,Constancia
+234,Coruche
+235,Entroncamento
+236,Ferreira do Zezere
+237,Golega
+238,Macao
+239,Ourem
+240,Rio Maior
+241,Salvaterra de Magos
+242,Santarem
+243,Sardoal
+244,Tomar
+245,Torres Novas
+246,Vila Nova da Barquinha
+247,Alcacer do Sal
+248,Alcochete
+249,Almada
+250,Barreiro
+251,Grandola
+252,Moita
+253,Montijo
+254,Palmela
+255,Santiago do Cacem
+256,Seixal
+257,Sesimbra
+258,Setubal
+259,Sines
+260,Arcos de Valdevez
+261,Caminha
+262,Melgaco
+263,Moncao
+264,Paredes de Coura
+265,Ponte da Barca
+266,Ponte de Lima
+267,Valenca
+268,Viana do Castelo
+269,Vila Nova de Cerveira
+270,Alijo
+271,Boticas
+272,Chaves
+273,Mesao Frio
+274,Mondim de Basto
+275,Montalegre
+276,Murca
+277,Peso da Regua
+278,Ribeira de Pena
+279,Sabrosa
+280,Santa Marta de Penaguiao
+281,Valpacos
+282,Vila Pouca de Aguiar
+283,Vila Real
+284,Armamar
+285,Carregal do Sal
+286,Castro Daire
+287,Cinfaes
+288,Lamego
+289,Mangualde
+290,Moimenta da Beira
+291,Mortagua
+292,Nelas
+293,Oliveira de Frades
+294,Penalva do Castelo
+295,Penedono
+296,Resende
+297,Satao
+298,Sao Joao da Pesqueira
+299,Sao Pedro do Sul
+300,Santa Comba Dao
+301,Sernancelhe
+302,Tabuaco
+303,Tarouca
+304,Tondela
+305,Vila Nova de Paiva
+306,Viseu
+307,Vouzela

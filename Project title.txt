@@ -1,0 +1,1 @@
+Estimate the CO2 emissions of the electricity consumption of a country for the next day
